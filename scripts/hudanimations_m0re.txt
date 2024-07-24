@@ -1,7 +1,7 @@
 //===========================================================================================================================
 event ScopeRemoval
 {
-	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
+//	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
 }
 
 event DamagedPlayer  // add/remove 2 slashes behind runevent to disable/enable scope remover

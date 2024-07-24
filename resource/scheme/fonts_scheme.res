@@ -2909,30 +2909,20 @@
 		}
 		"8"
 		{
-			"font"		"resource/scheme/fonts/surface_medium.otf"
-			"name"		"Raleway Medium"
-		}
-		"9"
-		{
 			"font"		"resource/scheme/fonts/surface_numbers.otf"
 			"name"		"Surface-Numbers"
 		}
-		"10"
-		{
-			"font"		"resource/scheme/fonts/surface_numbers_xl.otf"
-			"name"		"Surface-Numbers-XL"
-		}
-		"11"
+		"9"
 		{
 			"font"		"resource/scheme/fonts/blocks.ttf"
 			"name"		"Blocks"
 		}
-		"12"
+		"10"
 		{
 			"font"		"resource/scheme/fonts/m0rehud icons.ttf"
 			"name"		"m0rehud Icons V12"
 		}
-		"13"
+		"11"
 		{
 			"font"		"resource/scheme/fonts/raleway-medium.ttf"
 			"name"		"Raleway Medium"			

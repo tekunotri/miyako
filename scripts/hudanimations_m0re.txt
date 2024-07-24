@@ -6,7 +6,7 @@ event ScopeRemoval
 
 event DamagedPlayer  // add/remove 2 slashes behind runevent to disable/enable scope remover
 {
-//	RunEvent ScopeRemoval				0.0
+	RunEvent ScopeRemoval				0.0
 }
 
 event HudHealthBonusPulse

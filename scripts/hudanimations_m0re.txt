@@ -1,5 +1,5 @@
 //===========================================================================================================================
-event ScopeRemoval
+event ScopeRemoval //uncomment to disable scope
 {
 //	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
 }

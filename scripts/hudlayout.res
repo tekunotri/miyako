@@ -415,7 +415,7 @@
 		"LineSpacing"				"0"
 		"CornerRadius"				"0"
 		"RightJustify"				"1"
-		"TextFont"					"m0refont11Shadow"
+		"TextFont"					"m0refont11"
 		"TeamBlue"					"m0reBlue"
 		"TeamRed"					"m0reRed"
 		"IconColor"					"255 255 255 255"

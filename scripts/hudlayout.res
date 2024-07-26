@@ -190,7 +190,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"-7"
 		"wide"			"f0"
 		"tall"			"f0"
 	}
@@ -415,7 +415,7 @@
 		"LineSpacing"				"0"
 		"CornerRadius"				"0"
 		"RightJustify"				"1"
-		"TextFont"					"m0refont11"
+		"TextFont"					"m0refont11Shadow"
 		"TeamBlue"					"m0reBlue"
 		"TeamRed"					"m0reRed"
 		"IconColor"					"255 255 255 255"
@@ -1290,6 +1290,4 @@
 		"alpha"						"100"
 	}
 }
-"Resource/HudLayout.res"
-{
-}
+

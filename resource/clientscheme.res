@@ -7,9 +7,9 @@
 //=========================================================
 // FONTS SCHEME
 //=========================================================
-
-#base "scheme/fonts_scheme.res"
-
+#base "scheme/font_paths.res"
+//#base "scheme/fonts_scheme.res"
+#base "scheme/fonts_scheme_gyeon.res"
 //=========================================================
 // BORDERS SCHEME
 //=========================================================

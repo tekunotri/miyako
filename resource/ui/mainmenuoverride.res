@@ -301,8 +301,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Create"
-		"xpos"										"-91"
-		"ypos"										"3"
+		"xpos"										"-86"
+		"ypos"										"0"
 		"zpos"										"16"
 		"wide"										"22"
 		"tall"										"14"

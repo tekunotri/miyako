@@ -11,7 +11,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -20,7 +20,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -48,7 +48,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -57,7 +57,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -67,7 +67,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -76,7 +76,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -85,7 +85,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -95,7 +95,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -104,7 +104,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -114,7 +114,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -143,7 +143,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -152,7 +152,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -162,7 +162,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"26"
 				"antialias"									"1"
 			}
@@ -191,7 +191,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -200,7 +200,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"antialias"									"1"
 			}
@@ -209,7 +209,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"48"
 				"antialias"									"1"
 			}
@@ -218,56 +218,56 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"72"
 				"yres"										"400 500"
 				"antialias"									"1"
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"88"
 				"yres"										"501 600"
 				"antialias"									"1"
 			}
 			"3"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"95"
 				"yres"										"601 679"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"103"
 				"yres"										"680 720"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"110"
 				"yres"										"721 799"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"117"
 				"yres"										"800 899"
 				"antialias"									"1"
 			}
 			"7"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"123"
 				"yres"										"900 1030"
 				"antialias"									"1"
 			}
 			"8"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"130"
 				"yres"										"1031 1199"
 				"antialias"									"1"
@@ -284,7 +284,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -293,7 +293,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"antialias"									"1"
 			}
@@ -302,7 +302,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"antialias"									"1"
 			}
@@ -311,7 +311,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -321,7 +321,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -365,7 +365,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
@@ -373,7 +373,7 @@
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
@@ -381,7 +381,7 @@
 			}
 			"3"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -389,7 +389,7 @@
 			}
 			"4"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -397,7 +397,7 @@
 			}
 			"5"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -702,7 +702,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"44"
 				"weight"									"500"
 				"additive"									"0"
@@ -713,7 +713,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"35"
 				"weight"									"500"
 				"additive"									"0"
@@ -746,7 +746,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -768,7 +768,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"yres"										"1 1199"
@@ -777,7 +777,7 @@
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -788,7 +788,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -799,7 +799,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -821,7 +821,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -832,7 +832,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -843,7 +843,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -854,7 +854,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -865,7 +865,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -877,7 +877,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -888,7 +888,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -900,7 +900,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -911,7 +911,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"4"
 				"weight"									"500"
 				"additive"									"0"
@@ -922,7 +922,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -933,7 +933,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -944,7 +944,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -955,7 +955,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -966,7 +966,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"6"
 				"weight"									"0"
 				"additive"									"0"
@@ -977,7 +977,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
@@ -988,7 +988,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -1059,7 +1059,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1239,7 +1239,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1249,7 +1249,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"italic"									"1"
 				"antialias"									"1"
@@ -1260,7 +1260,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1270,7 +1270,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1281,7 +1281,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1323,7 +1323,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1354,7 +1354,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"28"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1365,7 +1365,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"40"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1376,7 +1376,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1387,7 +1387,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"	[!$OSX]
 				"tall"										"15"	[$OSX]
 				"antialias"									"1"
@@ -1421,7 +1421,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1444,7 +1444,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1456,7 +1456,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1468,7 +1468,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1480,7 +1480,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1492,7 +1492,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1575,7 +1575,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1586,7 +1586,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"400"
 				"additive"									"0"
@@ -1597,7 +1597,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1608,7 +1608,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1619,7 +1619,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -1630,7 +1630,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1850,7 +1850,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"weight"									"500"
 			}
@@ -1859,7 +1859,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"30"
 				"weight"									"500"
 			}
@@ -1868,7 +1868,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"28"
 				"weight"									"500"
 			}
@@ -1895,7 +1895,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"500"
 			}
@@ -1904,7 +1904,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 			}
@@ -1940,7 +1940,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1951,7 +1951,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -1962,7 +1962,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2046,7 +2046,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2056,7 +2056,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2066,7 +2066,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2076,7 +2076,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2086,7 +2086,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2096,7 +2096,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -2105,7 +2105,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2115,7 +2115,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2125,7 +2125,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2135,7 +2135,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2146,7 +2146,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"blur"										"3"
@@ -2290,7 +2290,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"antialias"									"1"
 				"custom"									"1"	[$OSX]
@@ -2301,7 +2301,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2310,7 +2310,7 @@
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2319,7 +2319,7 @@
 			}
 			"3"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2331,7 +2331,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2341,7 +2341,7 @@
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2351,7 +2351,7 @@
 			}
 			"3"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2364,7 +2364,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2373,7 +2373,7 @@
 			}
 			"2"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2382,7 +2382,7 @@
 			}
 			"3"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2394,7 +2394,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"400"
 				"additive"									"0"
@@ -2405,7 +2405,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2416,7 +2416,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -2517,7 +2517,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2581,7 +2581,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2592,7 +2592,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2614,7 +2614,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2625,7 +2625,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2636,7 +2636,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2647,7 +2647,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2658,7 +2658,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2670,7 +2670,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -2681,7 +2681,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2691,7 +2691,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"blur"										"3"
@@ -2703,7 +2703,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2776,7 +2776,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"additive"									"0"

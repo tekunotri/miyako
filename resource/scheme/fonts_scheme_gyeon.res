@@ -124,7 +124,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -172,7 +172,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -214,69 +214,21 @@
 				"antialias"									"1"
 			}
 		}
+		"m0refont58"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+				"tall"										"58"
+				"antialias"									"1"
+			}
+		}
 		"m0refont72"
 		{
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"72"
-				"yres"										"400 500"
-				"antialias"									"1"
-			}
-			"2"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"88"
-				"yres"										"501 600"
-				"antialias"									"1"
-			}
-			"3"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"95"
-				"yres"										"601 679"
-				"antialias"									"1"
-			}
-			"4"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"103"
-				"yres"										"680 720"
-				"antialias"									"1"
-			}
-			"5"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"110"
-				"yres"										"721 799"
-				"antialias"									"1"
-			}
-			"6"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"117"
-				"yres"										"800 899"
-				"antialias"									"1"
-			}
-			"7"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"123"
-				"yres"										"900 1030"
-				"antialias"									"1"
-			}
-			"8"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"130"
-				"yres"										"1031 1199"
-				"antialias"									"1"
-			}
-			"9"
-			{
-				"name"										"Surface-Numbers-XL"
-				"tall"										"999"
-				"yres"										"1200 6000"
+				"tall"										"58"
 				"antialias"									"1"
 			}
 		}
@@ -305,16 +257,6 @@
 				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"antialias"									"1"
-			}
-		}
-		"Coolvetica15Shadow"
-		{
-			"1"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"15"
-				"antialias"									"1"
-				"dropshadow"								"1"
 			}
 		}
 		"VerdanaMenu"										//Create Server Button
@@ -404,7 +346,7 @@
 			}
 			"6"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x00FF"
 				"weight"									"900"
@@ -439,43 +381,38 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
 			}
@@ -491,43 +428,38 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
-				"weight"									"0"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
 			}
@@ -536,7 +468,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -544,7 +476,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"21"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -552,7 +484,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -561,7 +493,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"28"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -570,7 +502,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -578,7 +510,7 @@
 			}
 			"6"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"range"										"0x0000 0x00FF"
 				"weight"									"900"
@@ -607,7 +539,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"6"
 				"weight"									"500"
 				"additive"									"0"
@@ -618,44 +550,45 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"700"
+				"antialias"									"1"
 			}
 		}
 		"HudFontGiant"
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -664,7 +597,7 @@
 			}
 			"2"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"32"
 				"weight"									"500"
 				"additive"									"0"
@@ -673,7 +606,7 @@
 			}
 			"3"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"44"
 				"weight"									"500"
 				"additive"									"0"
@@ -682,7 +615,7 @@
 			}
 			"4"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"48"
 				"weight"									"500"
 				"additive"									"0"
@@ -691,7 +624,7 @@
 			}
 			"5"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -724,7 +657,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -735,7 +668,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -757,7 +690,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -810,7 +743,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1070,7 +1003,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -1081,7 +1014,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1092,7 +1025,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -1103,7 +1036,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1114,7 +1047,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"additive"									"0"
@@ -1125,7 +1058,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1135,7 +1068,7 @@
 			}
 			"2"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1145,7 +1078,7 @@
 			}
 			"3"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1154,7 +1087,7 @@
 			}
 			"4"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"21"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1163,7 +1096,7 @@
 			}
 			"5"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"1000"
 				"antialias"									"1"
@@ -1228,7 +1161,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"28"
 				"weight"									"0"
 				"additive"									"1"
@@ -1291,18 +1224,18 @@
 		{
 			"1"
 			{
-				"name"										"Marlett"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"0"
 				"symbol"									"1"
 				"range"										"0x0000 0x007F"
 			}
 		}
-		"MarlettSmall"
+		"GyeonggiTitle MediumSmall"
 		{
 			"1"
 			{
-				"name"										"Marlett"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"0"
 				"symbol"									"1"
@@ -1313,7 +1246,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1333,7 +1266,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1343,7 +1276,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"800"
 				"additive"									"0"
@@ -1399,7 +1332,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"6"
 				"weight"									"400"
 				"additive"									"0"
@@ -1410,7 +1343,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"additive"									"0"
@@ -1432,7 +1365,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1504,7 +1437,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1515,7 +1448,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"52"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1524,7 +1457,7 @@
 			}
 			"2"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"72"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1533,7 +1466,7 @@
 			}
 			"3"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"100"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1542,7 +1475,7 @@
 			}
 			"4"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"140"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1551,7 +1484,7 @@
 			}
 			"5"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"180"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1563,7 +1496,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1641,7 +1574,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1649,7 +1582,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1657,7 +1590,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1665,7 +1598,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1673,7 +1606,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1684,7 +1617,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1692,7 +1625,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1700,7 +1633,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1708,7 +1641,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1716,7 +1649,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1727,7 +1660,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1735,7 +1668,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1743,7 +1676,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1751,7 +1684,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1759,7 +1692,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1781,7 +1714,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x00FF"
 				"weight"									"300"
@@ -1792,7 +1725,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1804,7 +1737,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1816,7 +1749,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"0"
 				"additive"									"1"
@@ -1827,7 +1760,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -1838,7 +1771,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"11"	[!$OSX]
 				"tall"										"9"		[$OSX]
 				"weight"									"800"
@@ -1913,7 +1846,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"900"
 			}
@@ -1922,7 +1855,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"900"
 			}
@@ -1931,7 +1864,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"900"
 			}
@@ -1983,7 +1916,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"600"
 				"additive"									"0"
@@ -1994,7 +1927,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -2005,7 +1938,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -2016,7 +1949,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"10"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2025,7 +1958,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2034,7 +1967,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"15"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2048,6 +1981,7 @@
 			{
 				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2057,7 +1991,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"10"
+				"tall"										"9"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2067,7 +2002,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"13"
+				"tall"										"12"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2077,7 +2013,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"16"
+				"tall"										"18"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2087,7 +2024,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"9"
+				"tall"										"8"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2097,8 +2035,9 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"9"
+				"tall"										"8"
 				"antialias"									"1"
+				"weight"									"500"
 			}
 		}
 		"ItemFontAttribSmall"
@@ -2106,7 +2045,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"10"
+				"tall"										"9"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2116,7 +2056,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"13"
+				"tall"										"12"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2126,7 +2067,8 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"15"
+				"tall"										"14"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}
@@ -2158,7 +2100,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"additive"									"1"
@@ -2169,7 +2111,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"additive"									"1"
@@ -2180,7 +2122,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2190,7 +2132,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"blur"										"3"
@@ -2202,7 +2144,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2417,7 +2359,7 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"10"
+				"tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2427,7 +2369,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"additive"									"0"
@@ -2438,7 +2380,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2448,7 +2390,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2471,7 +2413,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2479,7 +2421,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2487,7 +2429,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2496,7 +2438,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2505,7 +2447,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2528,7 +2470,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2536,7 +2478,7 @@
 			}
 			"2"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"13"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2544,7 +2486,7 @@
 			}
 			"3"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"14"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2553,7 +2495,7 @@
 			}
 			"4"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"20"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2562,7 +2504,7 @@
 			}
 			"5"
 			{
-				"name"										"Verdana"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"22"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -2603,7 +2545,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"GyeonggiTitle Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2768,17 +2710,6 @@
 				"name"										"ocra"
 				"tall"										"30"
 				"weight"									"400"
-				"additive"									"0"
-				"antialias"									"1"
-			}
-		}
-		"ShinBold20"
-		{
-			"1"
-			{
-				"name"										"GyeonggiTitle Medium"
-				"tall"										"20"
-				"weight"									"500"
 				"additive"									"0"
 				"antialias"									"1"
 			}

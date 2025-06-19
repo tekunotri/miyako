@@ -24,7 +24,7 @@
 		"tall"										"12"
 		"visible"									"1"
 		"enabled"									"0"
-		"font"										"m0refont11"
+		"font"										"m0refont11shadow"
 		"labelText"									"%targetname%"
 		"textAlignment"								"west"
 		"disabledfgcolor2_override"					"White"

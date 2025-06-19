@@ -228,7 +228,7 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"58"
+				"tall"										"50"
 				"antialias"									"1"
 			}
 		}
@@ -264,7 +264,7 @@
 			"1"
 			{
 				"name"										"GyeonggiTitle Medium"
-				"tall"										"15"
+				"tall"										"14"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}

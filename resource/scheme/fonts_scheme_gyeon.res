@@ -1234,18 +1234,18 @@
 		{
 			"1"
 			{
-				"name"										"GyeonggiTitle Medium"
+				"name"										"Marlett"
 				"tall"										"20"
 				"weight"									"0"
 				"symbol"									"1"
 				"range"										"0x0000 0x007F"
 			}
 		}
-		"GyeonggiTitle MediumSmall"
+		"MarlettSmall"
 		{
 			"1"
 			{
-				"name"										"GyeonggiTitle Medium"
+				"name"										"Marlett"
 				"tall"										"14"
 				"weight"									"0"
 				"symbol"									"1"

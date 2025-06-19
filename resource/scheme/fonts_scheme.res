@@ -1234,7 +1234,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"Marlett"
 				"tall"										"20"
 				"weight"									"0"
 				"symbol"									"1"
@@ -1245,7 +1245,7 @@
 		{
 			"1"
 			{
-				"name"										"Raleway Medium"
+				"name"										"Marlett"
 				"tall"										"14"
 				"weight"									"0"
 				"symbol"									"1"

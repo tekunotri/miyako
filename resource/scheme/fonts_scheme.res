@@ -266,6 +266,7 @@
 				"name"										"Raleway Medium"
 				"tall"										"15"
 				"antialias"									"1"
+				"dropshadow"								"1"
 			}
 		}
 		"VerdanaMenu"										//Create Server Button

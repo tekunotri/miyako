@@ -259,6 +259,16 @@
 				"antialias"									"1"
 			}
 		}
+		"Coolvetica15Shadow"
+		{
+			"1"
+			{
+				"name"										"GyeonggiTitle Medium"
+				"tall"										"15"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
 		"VerdanaMenu"										//Create Server Button
 		{
 			"1"

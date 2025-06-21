@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "vgui/replay/thumbnails/speedometer/numbers"
+	"$basetexture" "vgui/replay/thumbnails/speedometer/numbersgyeon"
 	"$translucent" 1
 	"$vertexcolor" 1
 	"$no_fullbright" 1
